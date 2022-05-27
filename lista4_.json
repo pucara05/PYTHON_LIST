@@ -1,0 +1,18 @@
+# hacer un programa que utilice dos funciones y que cargue un dicionario con los productos
+# de una venta,por medio de las funciones calcule el precio unitario
+#y el valor a pagar
+
+{
+    "producto":[
+        "nombre:"lapicero",
+    "precio": 1000,
+    "cantidad": 5,
+ },
+    {
+        "nombre": "lapiz",
+        "precio":800,
+        "cantidad":3
+        }
+    }
+}
+        
